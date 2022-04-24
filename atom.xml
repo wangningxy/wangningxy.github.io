@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangningxy.github.io</id>
     <title>Gridea</title>
-    <updated>2022-04-24T07:06:46.968Z</updated>
+    <updated>2022-04-24T07:10:53.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangningxy.github.io"/>
     <link rel="self" href="https://wangningxy.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://wangningxy.github.io/images/avatar.png</logo>
     <icon>https://wangningxy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[中国航天日]]></title>
+        <id>https://wangningxy.github.io/post/zhong-guo-hang-tian-ri/</id>
+        <link href="https://wangningxy.github.io/post/zhong-guo-hang-tian-ri/">
+        </link>
+        <updated>2022-04-24T07:08:58.000Z</updated>
+        <content type="html"><![CDATA[<p>中国航天日（Space Day of China [1]  ），是为了纪念中国航天事业成就，发扬中国航天精神而计划设立的一个纪念日。设立“中国航天日”，就是要铭记历史、传承精神，激发全民尤其是青少年崇尚科学、探索未知、敢于创新的热情，为实现中华民族伟大复兴的中国梦凝聚强大力量。 [22]<br>
+2016年3月8日，国务院批复同意将每年4月24日设立为“中国航天日”。 [2-3]  首个中国航天日将以“中国梦，航天梦”为主题，国防科工局已会同有关部门筹划部署“开放日”“科普周”等系列宣传和科普活动。设立“中国航天日”，旨在宣传中国和平利用外层空间的一贯宗旨，大力弘扬航天精神，科学普及航天知识，激发全民族探索创新热情，唱响“探索浩瀚宇宙、发展航天事业、建设航天强国”的主旋律，凝聚实现中国梦航天梦的强大力量 [3]  。<br>
+2022年4月24日，第七个“中国航天日”主题是“航天点亮梦想”。 [19]<br>
+<img src="https://wangningxy.github.io/post-images/1650784196801.webp" alt="" loading="lazy">🤡</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wangningxy.github.io/post/hello-gridea/</id>
